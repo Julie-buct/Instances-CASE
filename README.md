@@ -1,2 +1,2 @@
 # Instances-CASE
-A Self-learning Iterated Local Search Algorithm based on Reinforcement Learning for the Order Batching and Sequencing Problem
+This file contains all data files for “A Learning-based Iterated Local Search Algorithm for the Order Batching and Sequencing Problem”
